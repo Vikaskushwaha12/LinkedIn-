@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn Image Generator",
+  "description": "Generate professional and eye-catching images for your LinkedIn posts and profile using Google's Gemini 'nano banana' image generation features.",
+  "requestFramePermissions": []
+}
